@@ -45,6 +45,11 @@ Detailed documentation is available in:
 - `/docs` – Architecture and implementation details
 - `/report` – Final project report
 
+## 🎥 Video Demonstration
+Team-based CAPsMAN configuration and testing:
+
+▶ https://youtu.be/gC5JdmHnZPs
+
 ## Outcome
 This project demonstrates the ability to collaborate
 within a technical team to design and document
